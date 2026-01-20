@@ -1,0 +1,56 @@
+## =========================
+## .NET / C#
+## =========================
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+
+# Test results
+TestResults/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Publish output
+publish/
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Rider / ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
