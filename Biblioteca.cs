@@ -33,7 +33,7 @@ public class Biblioteca
             }
         }
 
-        public Livro BuscarLivroPorId(int id)
+        public Livro? BuscarLivroPorId(int id)
         {
             return Livros.Find(l => l.Id == id);
         }

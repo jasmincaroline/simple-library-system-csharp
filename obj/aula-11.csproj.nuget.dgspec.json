@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jasmin\\Documents\\aula-11\\aula-11.csproj": {}
+    "D:\\JeJ\\Documents\\simple-library-system-csharp\\aula-11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jasmin\\Documents\\aula-11\\aula-11.csproj": {
+    "D:\\JeJ\\Documents\\simple-library-system-csharp\\aula-11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jasmin\\Documents\\aula-11\\aula-11.csproj",
+        "projectUniqueName": "D:\\JeJ\\Documents\\simple-library-system-csharp\\aula-11.csproj",
         "projectName": "aula-11",
-        "projectPath": "C:\\Users\\Jasmin\\Documents\\aula-11\\aula-11.csproj",
-        "packagesPath": "C:\\Users\\Jasmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jasmin\\Documents\\aula-11\\obj\\",
+        "projectPath": "D:\\JeJ\\Documents\\simple-library-system-csharp\\aula-11.csproj",
+        "packagesPath": "C:\\Users\\JeJ\\.nuget\\packages\\",
+        "outputPath": "D:\\JeJ\\Documents\\simple-library-system-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jasmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\JeJ\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
