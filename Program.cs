@@ -21,7 +21,13 @@
                 Console.WriteLine("2 - Emprestar livro");
                 Console.WriteLine("3 - Sair");
 
-                int opcao = int.Parse(Console.ReadLine());
+                string? input = Console.ReadLine();
+
+                if (!int.TryParse(input, out int opcao))
+                {
+                Console.WriteLine("Invalid option.");
+                return;
+                }
 
                 if (opcao == 1)
                 {
@@ -30,7 +36,13 @@
                 else if (opcao == 2)
                 {
                     Console.WriteLine("Digite o nome de quem pegará o livro:");
-                    string nome = Console.ReadLine();
+                    string? nome = Console.ReadLine();
+
+                    if (string.IsNullOrWhiteSpace(nome))
+                    {
+                     Console.WriteLine("Invalid name.");
+                     return;
+                    }
 
                     Pessoa pessoa = new Pessoa(nome);
                     biblioteca.CadastrarPessoa(pessoa);
@@ -39,9 +51,15 @@
                     biblioteca.ListarLivros();
 
                     Console.WriteLine("Digite o ID do livro que deseja pegar:");
-                    int idLivro = int.Parse(Console.ReadLine());
+                    string? idInput = Console.ReadLine();
 
-                    Livro livroEscolhido = biblioteca.BuscarLivroPorId(idLivro);
+                    if (!int.TryParse(idInput, out int idLivro))
+                    {
+                    Console.WriteLine("Invalid book ID.");
+                    continue;
+                    }
+
+                    Livro? livroEscolhido = biblioteca.BuscarLivroPorId(idLivro);
 
                     if (livroEscolhido == null)
                     {
