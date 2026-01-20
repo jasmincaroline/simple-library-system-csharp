@@ -1,0 +1,14 @@
+C:\Users\Jasmin\Documents\aula-11\bin\Debug\net10.0\aula-11.exe
+C:\Users\Jasmin\Documents\aula-11\bin\Debug\net10.0\aula-11.deps.json
+C:\Users\Jasmin\Documents\aula-11\bin\Debug\net10.0\aula-11.runtimeconfig.json
+C:\Users\Jasmin\Documents\aula-11\bin\Debug\net10.0\aula-11.dll
+C:\Users\Jasmin\Documents\aula-11\bin\Debug\net10.0\aula-11.pdb
+C:\Users\Jasmin\Documents\aula-11\obj\Debug\net10.0\aula-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasmin\Documents\aula-11\obj\Debug\net10.0\aula-11.AssemblyInfoInputs.cache
+C:\Users\Jasmin\Documents\aula-11\obj\Debug\net10.0\aula-11.AssemblyInfo.cs
+C:\Users\Jasmin\Documents\aula-11\obj\Debug\net10.0\aula-11.csproj.CoreCompileInputs.cache
+C:\Users\Jasmin\Documents\aula-11\obj\Debug\net10.0\aula-11.dll
+C:\Users\Jasmin\Documents\aula-11\obj\Debug\net10.0\refint\aula-11.dll
+C:\Users\Jasmin\Documents\aula-11\obj\Debug\net10.0\aula-11.pdb
+C:\Users\Jasmin\Documents\aula-11\obj\Debug\net10.0\aula-11.genruntimeconfig.cache
+C:\Users\Jasmin\Documents\aula-11\obj\Debug\net10.0\ref\aula-11.dll
